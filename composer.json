@@ -1,10 +1,10 @@
 {
-  "name": "codicastudio/adminmultiselect",
+  "name": "codica-studio/adminmultiselect",
   "description": "A random Codica Studio package.",
   "keywords": [
       ""
   ],
-  "homepage": "https://github.com/codicastudio/adminmultiselect",
+  "homepage": "https://github.com/codica-studio/adminmultiselect",
   "license": "MIT",
   "authors": [
       {
