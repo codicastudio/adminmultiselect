@@ -1,10 +1,10 @@
 {
-  "name": "codica-studio/adminmultiselect",
+  "name": "codicastudio/multi-select",
   "description": "A random Codica Studio package.",
   "keywords": [
       ""
   ],
-  "homepage": "https://github.com/codicastudio/adminmultiselect",
+  "homepage": "https://github.com/codicastudio/multi-select",
   "license": "MIT",
   "authors": [
       {
@@ -15,8 +15,7 @@
       }
   ],
   "require": {
-    "php": "^7.4 || ^8.0",
-    "laravel/nova": "*"
+    "php": "^7.4 || ^8.0"
   },
   "autoload": {
     "psr-4": {
@@ -33,12 +32,6 @@
   "config": {
     "sort-packages": true
   },
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://nova.laravel.com"
-    }
-  ]
+  "minimum-stability": "stable",
+  "prefer-stable": true
 }
